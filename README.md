@@ -8,7 +8,7 @@ Este es tu repositorio que utilizarás durante todo el curso. Todos los ayudante
 
 ## Recuerda
 
-Al compartir tu repo en los foros del curso, segúrate de agregar lo siguiente también:
+Al compartir tu repo en los foros del curso, asegúrate de agregar lo siguiente también:
 
 | Nombre              | Email UC      |
 |:--------------------|:--------------|
