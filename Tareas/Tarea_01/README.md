@@ -2,7 +2,7 @@
 
 En primer lugar, creo que es importante comentar que no pude asistir a la primera clase del curso por haberme encontrado fuera del país terminando mi práctica profesional. Por lo mismo, no conozco a cabalidad la actividad que se realizó o las conclusiones de la clase. Sin embargo, me conseguí el pertenecer a un grupo con unas compañeras del curso, por lo cual sí puedo nombrar en esta tarea las ideas que tenemos para el trabajo semestral y además adjuntaré el link del Miró en el cua trabajó mi grupo durante el primer día de clases.
 
-Siguiendo en la misma línea, se puede revisar la planilla de MiróApp haciendo [clic aquí](google.com).
+Siguiendo en la misma línea, se puede revisar la planilla de MiróApp haciendo [clic aquí](https://miro.com/welcomeonboard/VDZOOGRvVzZCWU1KenJycmpQMzRkU0s2UUxFeHBmbmFXMzVRRlhoUjlOaDRxTmVrREdnNTUwQVNrcXp4SkVSV3wzNDU4NzY0NTYyMzMxMjI0MTI1fDI=?share_link_id=345769536572).
 
 A continuación señalo algunas ideas barajadas:
 
