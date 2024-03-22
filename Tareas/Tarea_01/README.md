@@ -6,10 +6,6 @@ Siguiendo en la misma línea, se puede revisar la planilla de MiróApp haciendo 
 
 A continuación señalo algunas ideas barajadas y en qué lugar del plano quedaron:
 
-- En primer lugar, pensé en hacer una investigación sobre la implementación de los **buses eléctricos** en Santiago. Es decir, cómo la implementación de estos buses (y los nuevos con dos pisos) mejora - o no - la experiencia de los usuarios. 
-
-- Esta idea requeriría un esfuerzo medio de recopilación de datos, y su impacto en realidad no sería muy alto, por lo cual quedaría en una zona de **analizar**
-
-- Como segunda idea, y tomando en cuenta mis intereses, como por ejemplo el cine y las relaciones internacionales, pensé en una investigación que incluyera el **Impacto del Cine en el Turismo**: algo así de cómo las locaciones de películas chilenas pueden influir en el turismo y en la imagen que los turistas tienen del país. Investiga si las películas pueden impulsar la industria turística y las relaciones internacionales.
-
-- LLevando la idea al plano, puedo concluir que tiene un esfuerzo alto, pero un impacto bajo, por lo que quedaría en la zona de **regular**.
+- La compañia **BlackRock** compró en 2023 un 30% de las tierras de Ucrania. La hipótesis para contar la historia y hacer la investigación sería ¿Afectó la guerra para la compra de BlackRock? ¿Lo habrían hecho si no hubiera habido una guerra por medio?
+  
+- ¿Estamos ante una nueva "Belle Époque" o "Locos Años 20"?. Nuestra hipótesis es que sí, y que luego de la pandemia se está creando una nueva época a través de la moda en que las personas cambiaron su paradigma de comportamiento tras la cuerentena global de 2020. Creemos que hay nuevos valores y es un buen tema para poder graficarlo y explicarlo en una WebStorie.
