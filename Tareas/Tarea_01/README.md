@@ -4,7 +4,7 @@ En primer lugar, creo que es importante comentar que no pude asistir a la primer
 
 Siguiendo en la misma línea, se puede revisar la planilla de MiróApp haciendo [clic aquí](google.com).
 
-A continuación señalo algunas ideas barajadas y en qué lugar del plano quedaron:
+A continuación señalo algunas ideas barajadas:
 
 - La compañia **BlackRock** compró en 2023 un 30% de las tierras de Ucrania. La hipótesis para contar la historia y hacer la investigación sería ¿Afectó la guerra para la compra de BlackRock? ¿Lo habrían hecho si no hubiera habido una guerra por medio?
   
